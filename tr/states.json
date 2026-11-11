@@ -72,19 +72,19 @@
         "is_default": 0
     },
     {
-        "name": "Deni̇zli̇",
+        "name": "Denizli",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Di̇yarbakır",
+        "name": "Diyarbakır",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Edi̇rne",
+        "name": "Edirne",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
@@ -96,7 +96,7 @@
         "is_default": 0
     },
     {
-        "name": "Erzi̇ncan",
+        "name": "Erzincan",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
@@ -108,19 +108,19 @@
         "is_default": 0
     },
     {
-        "name": "Eski̇şehi̇r",
+        "name": "Eskişehir",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Gazi̇antep",
+        "name": "Gaziantep",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Gi̇resun",
+        "name": "Giresun",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
@@ -132,13 +132,13 @@
         "is_default": 0
     },
     {
-        "name": "Afyonkarahi̇sar",
+        "name": "Afyonkarahisar",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Hakkâri̇",
+        "name": "Hakkâri",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
@@ -156,7 +156,7 @@
         "is_default": 0
     },
     {
-        "name": "Mersi̇n",
+        "name": "Mersin",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
@@ -168,7 +168,7 @@
         "is_default": 0
     },
     {
-        "name": "İzmi̇r",
+        "name": "İzmir",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
@@ -186,7 +186,7 @@
         "is_default": 0
     },
     {
-        "name": "Kayseri̇",
+        "name": "Kayseri",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
@@ -210,7 +210,7 @@
         "is_default": 0
     },
     {
-        "name": "Kocaeli̇",
+        "name": "Kocaeli",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
@@ -234,7 +234,7 @@
         "is_default": 0
     },
     {
-        "name": "Mani̇sa",
+        "name": "Manisa",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
@@ -246,7 +246,7 @@
         "is_default": 0
     },
     {
-        "name": "Mardi̇n",
+        "name": "Mardin",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
@@ -270,13 +270,13 @@
         "is_default": 0
     },
     {
-        "name": "Nevşehi̇r",
+        "name": "Nevşehir",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Ni̇ğde",
+        "name": "Niğde",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
@@ -288,7 +288,7 @@
         "is_default": 0
     },
     {
-        "name": "Ri̇ze",
+        "name": "Rize",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
@@ -306,25 +306,25 @@
         "is_default": 0
     },
     {
-        "name": "Si̇i̇rt",
+        "name": "Siirt",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Si̇nop",
+        "name": "Sinop",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Si̇vas",
+        "name": "Sivas",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Teki̇rdağ",
+        "name": "Tekirdağ",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
@@ -348,7 +348,7 @@
         "is_default": 0
     },
     {
-        "name": "Tunceli̇",
+        "name": "Tunceli",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
@@ -456,19 +456,19 @@
         "is_default": 0
     },
     {
-        "name": "Ki̇li̇s",
+        "name": "Kilis",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Artvi̇n",
+        "name": "Artvin",
         "abbreviation": null,
         "order": 0,
         "is_default": 0
     },
     {
-        "name": "Osmani̇ye",
+        "name": "Osmaniye",
         "abbreviation": null,
         "order": 0,
         "is_default": 0

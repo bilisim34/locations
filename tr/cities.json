@@ -202,7 +202,7 @@
         ]
     },
     {
-        "name": "Deni̇zli̇",
+        "name": "Denizli",
         "cities": [
             "Pamukkale",
             "Merkezefendi",
@@ -226,7 +226,7 @@
         ]
     },
     {
-        "name": "Di̇yarbakır",
+        "name": "Diyarbakır",
         "cities": [
             "Bağlar",
             "Kayapınar",
@@ -248,7 +248,7 @@
         ]
     },
     {
-        "name": "Edi̇rne",
+        "name": "Edirne",
         "cities": [
             "Merkez",
             "Keşan",
@@ -278,7 +278,7 @@
         ]
     },
     {
-        "name": "Erzi̇ncan",
+        "name": "Erzincan",
         "cities": [
             "Merkez",
             "Tercan",
@@ -317,7 +317,7 @@
         ]
     },
     {
-        "name": "Eski̇şehi̇r",
+        "name": "Eskişehir",
         "cities": [
             "Odunpazarı",
             "Tepebaşı",
@@ -336,7 +336,7 @@
         ]
     },
     {
-        "name": "Gazi̇antep",
+        "name": "Gaziantep",
         "cities": [
             "Şahinbey",
             "Şehitkamil",
@@ -350,7 +350,7 @@
         ]
     },
     {
-        "name": "Gi̇resun",
+        "name": "Giresun",
         "cities": [
             "Merkez",
             "Bulancak",
@@ -382,7 +382,7 @@
         ]
     },
     {
-        "name": "Afyonkarahi̇sar",
+        "name": "Afyonkarahisar",
         "cities": [
             "Merkez",
             "Sandıklı",
@@ -405,7 +405,7 @@
         ]
     },
     {
-        "name": "Hakkâri̇",
+        "name": "Hakkâri",
         "cities": [
             "Yüksekova",
             "Merkez",
@@ -453,7 +453,7 @@
         ]
     },
     {
-        "name": "Mersi̇n",
+        "name": "Mersin",
         "cities": [
             "Tarsus",
             "Toroslar",
@@ -471,7 +471,7 @@
         ]
     },
     {
-        "name": "İ̇stanbul",
+        "name": "İstanbul",
         "cities": [
             "Esenyurt",
             "Küçükçekmece",
@@ -515,7 +515,7 @@
         ]
     },
     {
-        "name": "İ̇zmi̇r",
+        "name": "İzmir",
         "cities": [
             "Buca",
             "Karabağlar",
@@ -587,7 +587,7 @@
         ]
     },
     {
-        "name": "Kayseri̇",
+        "name": "Kayseri",
         "cities": [
             "Melikgazi",
             "Kocasinan",
@@ -645,7 +645,7 @@
         ]
     },
     {
-        "name": "Kocaeli̇",
+        "name": "Kocaeli",
         "cities": [
             "Gebze",
             "İzmit",
@@ -734,7 +734,7 @@
         ]
     },
     {
-        "name": "Mani̇sa",
+        "name": "Manisa",
         "cities": [
             "Yunusemre",
             "Akhisar",
@@ -772,7 +772,7 @@
         ]
     },
     {
-        "name": "Mardi̇n",
+        "name": "Mardin",
         "cities": [
             "Kızıltepe",
             "Artuklu",
@@ -827,7 +827,7 @@
         ]
     },
     {
-        "name": "Nevşehi̇r",
+        "name": "Nevşehir",
         "cities": [
             "Merkez",
             "Ürgüp",
@@ -840,7 +840,7 @@
         ]
     },
     {
-        "name": "Ni̇ğde",
+        "name": "Niğde",
         "cities": [
             "Merkez",
             "Bor",
@@ -875,7 +875,7 @@
         ]
     },
     {
-        "name": "Ri̇ze",
+        "name": "Rize",
         "cities": [
             "Merkez",
             "Çayeli",
@@ -935,7 +935,7 @@
         ]
     },
     {
-        "name": "Si̇i̇rt",
+        "name": "Siirt",
         "cities": [
             "Merkez",
             "Kurtalan",
@@ -947,7 +947,7 @@
         ]
     },
     {
-        "name": "Si̇nop",
+        "name": "Sinop",
         "cities": [
             "Merkez",
             "Boyabat",
@@ -961,7 +961,7 @@
         ]
     },
     {
-        "name": "Si̇vas",
+        "name": "Sivas",
         "cities": [
             "Merkez",
             "Şarkışla",
@@ -983,7 +983,7 @@
         ]
     },
     {
-        "name": "Teki̇rdağ",
+        "name": "Tekirdağ",
         "cities": [
             "Çorlu",
             "Süleymanpaşa",
@@ -1069,7 +1069,7 @@
         ]
     },
     {
-        "name": "Tunceli̇",
+        "name": "Tunceli",
         "cities": [
             "Merkez",
             "Pertek",
@@ -1304,7 +1304,7 @@
         ]
     },
     {
-        "name": "Ki̇li̇s",
+        "name": "Kilis",
         "cities": [
             "Merkez",
             "Musabeyli",
@@ -1313,7 +1313,7 @@
         ]
     },
     {
-        "name": "Artvi̇n",
+        "name": "Artvin",
         "cities": [
             "Merkez",
             "Hopa",
@@ -1329,7 +1329,7 @@
         ]
     },
     {
-        "name": "Osmani̇ye",
+        "name": "Osmaniye",
         "cities": [
             "Merkez",
             "Kadirli",
